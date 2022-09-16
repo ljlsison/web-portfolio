@@ -38,7 +38,9 @@ h1{
 }
 
 section{
-	padding-top: 10%;
+	padding-top: 8%;
+	padding-left: 2%;
+	padding-right: 2%;
 }
 
 body{
@@ -47,7 +49,7 @@ body{
 	background-size: cover;
 }
 
-a, a button {
+a, a button, a img {
 	text-decoration: none;
 }
 
